@@ -1,0 +1,17 @@
+D:\Study Material\Aspose\App\Aspose\AsposeTest\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Study Material\Aspose\App\Aspose\AsposeTest\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Study Material\Aspose\App\Aspose\AsposeTest\bin\Debug\netcoreapp2.2\AsposeTest.deps.json
+D:\Study Material\Aspose\App\Aspose\AsposeTest\bin\Debug\netcoreapp2.2\AsposeTest.runtimeconfig.json
+D:\Study Material\Aspose\App\Aspose\AsposeTest\bin\Debug\netcoreapp2.2\AsposeTest.runtimeconfig.dev.json
+D:\Study Material\Aspose\App\Aspose\AsposeTest\bin\Debug\netcoreapp2.2\AsposeTest.dll
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.RazorAssemblyInfo.cache
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.RazorAssemblyInfo.cs
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.AssemblyInfoInputs.cache
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.AssemblyInfo.cs
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.RazorTargetAssemblyInfo.cache
+D:\Study Material\Aspose\App\Aspose\AsposeTest\bin\Debug\netcoreapp2.2\AsposeTest.pdb
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.dll
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.pdb
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.csproj.AssemblyReference.cache
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.csproj.CoreCompileInputs.cache
+D:\Study Material\Aspose\App\Aspose\AsposeTest\obj\Debug\netcoreapp2.2\AsposeTest.genruntimeconfig.cache
